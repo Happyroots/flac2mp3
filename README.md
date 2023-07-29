@@ -16,9 +16,11 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  首先下载ffmepg，win版运行包
+官网地址：https://ffmpeg.org/download.html
+百度云地址：https://pan.baidu.com/s/188MrkvxqP_q3oRAqVoDpFg?pwd=qqyq 
+2.  将脚本中的音乐目录和输出目录改成自己的。目录中最好加'\\'，不要中文
+3.  最好以管理员权限运行IDE
 
 #### 参与贡献
 
